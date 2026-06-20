@@ -5,7 +5,7 @@ A Machine Learning web app that predicts house prices based on property details 
 Built as part of the **AIML Summer Internship 2026**, IIHMF, MNNIT Allahabad.
 
 ## 🔗 Live App
-[Add your Streamlit deployment link here]
+https://house-price-predictor-72jmreamsukaxkqdizudna.streamlit.app/
 
 ## 📁 Project Structure
 ```
